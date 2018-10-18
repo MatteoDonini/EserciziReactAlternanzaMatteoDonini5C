@@ -1,0 +1,9 @@
+ol{
+	background-color: pink;	
+	border: 1pt solid black;
+	list-style-type: lower-greek;
+}
+
+form{
+	margin: auto;
+}
